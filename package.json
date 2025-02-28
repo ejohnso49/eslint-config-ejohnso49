@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-ejohnso49",
+  "version": "1.0.0",
+  "description": "My flavor of eslint configs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejohnso49/eslint-config-ejohnso49.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "Eric Johnson",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ejohnso49/eslint-config-ejohnso49/issues"
+  },
+  "homepage": "https://github.com/ejohnso49/eslint-config-ejohnso49#readme"
+}
