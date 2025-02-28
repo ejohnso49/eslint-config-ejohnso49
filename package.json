@@ -11,12 +11,18 @@
     "url": "git+https://github.com/ejohnso49/eslint-config-ejohnso49.git"
   },
   "keywords": [
-    "eslint"
+    "eslint, eslintconfig"
   ],
   "author": "Eric Johnson",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/ejohnso49/eslint-config-ejohnso49/issues"
   },
-  "homepage": "https://github.com/ejohnso49/eslint-config-ejohnso49#readme"
+  "homepage": "https://github.com/ejohnso49/eslint-config-ejohnso49#readme",
+  "peerDependencies": {
+    "eslint": "^9.21.0"
+  },
+  "dependencies": {
+    "@stylistic/eslint-plugin": "^4.1.0"
+  }
 }
